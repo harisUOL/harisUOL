@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Haris Moin, github username @harisUOL. I take interest in web development using python frameworks such as django,
-     flask, bottle etc. I could also work with other frameworks if required
-- 👀 I’m interested in HPC at the moment
-- 🌱 I’m currently learning ways to implement multi-core and multi-processor programming with different kinds of datasets
-     and apart from that I like to solve problems on coding platform
+- 👋 Hi, I’m Haris Moin, github username @harisUOL. I am a developer passionate about crafting dynamic web experiences, from sleek front-end designs to high-performance back-end systems.
+- 👀 I’m advancing in NLP at the moment.
+- 🌱 Check out my wensite and blogs at https://harismoin.com/
 - 💞️ I’m looking to collaborate on web development projects, HPC code optimisation projects, or anything of the like.
 - 📫 Connect with me on Linkedin <link>https://www.linkedin.com/in/haris-moin-b9bba2222/</link>
 <!---
